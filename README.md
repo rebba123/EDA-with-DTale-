@@ -39,12 +39,14 @@ Numerical values distribution wrt single feature indicating different graphs
 
 
  5.) Cardinality of Categorical variables
-![Screenshot (428)](https://user-images.githubusercontent.com/87561796/131806020-8238c9ee-a6ed-47bb-8fb1-95636017e10f.png)
+![Screenshot (429)](https://user-images.githubusercontent.com/87561796/131807758-efa2525e-5c9d-48b8-acb8-f50e91e9f762.png)
+
  The above graph indicates above the heat map of whole dataset
  6.) Outliers
 ![Screenshot (431)](https://user-images.githubusercontent.com/87561796/131806656-901b5067-09d4-4ed7-a834-6be704dbf488.png)
 Line graph
-![Screenshot (431)](https://user-images.githubusercontent.com/87561796/131806725-d5cf2bde-fc72-470d-80c9-6d76227cd733.png)
+![Screenshot (432)](https://user-images.githubusercontent.com/87561796/131807831-b0a1e071-4468-4c80-a6ef-16281f970762.png)
+
 bar graph
 ![Screenshot (433)](https://user-images.githubusercontent.com/87561796/131807046-6df86ba9-93ec-44ee-aacd-f81ccc875a0b.png)
 scatter plot
